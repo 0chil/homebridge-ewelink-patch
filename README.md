@@ -12,7 +12,7 @@
 
 
 # Description
-- This is a patch for `appid unauthorized` error which occurs after `7/6/2022`  
+- This is a patch for `appid unauthorized` error which occurs since `7/6/2022`  
 - Tested on version `homebridge-ewelink@8.15` which is lastest release compatible with `node v12`  
 - Tested on `homebridge-ewelink@8.15` ONLY, cannot sure any version below is compatible
 - Please use it at your own risk
